@@ -3,5 +3,8 @@ def display_rainbow(colors)
 end# Write your #display_rainbow method here
 
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+puts "The first color of the rainbow is: #{colors[R]}"
+puts "The second color of the rainbow is: #{colors[O]}"
+puts "The third color of the rainbow is: #{colors[Y]}"
 
-display_rainbow(red)
+display_rainbow(colors)
